@@ -1,0 +1,2 @@
+# RAG_langchain
+一个基于langchain实现RAG的简单示例
