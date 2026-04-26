@@ -120,7 +120,7 @@ RAG_langchain/
 6. **检索优化**：学习 [reranker](learn/reranker/) 提升检索精度
 7. **系统评估**：学习 [evaluation](learn/evaluation/) 建立评估体系
 8. **高级方法**：探索 [advanced_method](learn/advanced_method/)
-9. **RLM**：[RLM/](RLM/) 强化学习优化
+9. **RLM**：[RLM/](RLM/) 递归LLM
 
 
 ## 进阶主题
@@ -137,6 +137,14 @@ RAG_langchain/
 - **分块优化**：[chunsize/](chunsize/) 最佳分块大小探索
 - **元数据过滤**：[vectorDB/metadatafilter.ipynb](vectorDB/metadatafilter.ipynb)
 - **混合检索**：稠密检索 + 稀疏检索
+
+
+# 从零构建一个Mini Claude Code
+
+- **初级完整流程**： [mini_claude_code/](mini_claude_code/mini_claude_code.py)
+- **TODO**
+
+
 
 ## 🌟 Star History
 
