@@ -150,4 +150,4 @@ RAG_langchain/
 
 如果你觉得这个项目对你有帮助，请给个 Star 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=blackinkkkxi/RAG_langchain&type=Date)](https://star-history.com/#blackinkkkxi/RAG_langchain&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=blackinkkkxi/RAG_langchain&type=Date)](https://star-history.dera.page/#blackinkkkxi/RAG_langchain&Date)
